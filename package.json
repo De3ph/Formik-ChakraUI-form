@@ -1,5 +1,5 @@
 {
-  "name": "react-formik",
+  "name": "formik-chakra",
   "private": true,
   "version": "0.0.0",
   "scripts": {
@@ -8,15 +8,21 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@chakra-ui/react": "^1.8.8",
+    "@emotion/react": "^11",
+    "@emotion/styled": "^11",
     "formik": "^2.2.9",
+    "framer-motion": "^6",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
+    "react-icons": "^4.3.1",
     "yup": "^0.32.11"
   },
   "devDependencies": {
     "@types/react": "^18.0.0",
     "@types/react-dom": "^18.0.0",
     "@vitejs/plugin-react": "^1.3.0",
-    "vite": "^2.9.7"
+    "vite": "^2.9.7",
+    "vite-preset-react": "^2.2.0"
   }
 }
