@@ -1,5 +1,5 @@
 # Formik-ChakraUI-form
-Created to practise on Formik and ChakraUI (with Yup validation schema)
+Created to practise on Formik and ChakraUI (with Yup validation schema, FramerMotion animations)
 
 
 ![1](https://user-images.githubusercontent.com/62203579/167271640-22924213-33c7-471a-9714-92e945141071.jpg)
